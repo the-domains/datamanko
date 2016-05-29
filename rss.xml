@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Datamanko]]></title>
+        <description><![CDATA[Datamanko]]></description>
+        <link>https://thegrid.ai/datamanko/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 29 May 2016 16:49:00 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/datamanko/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Google May Have Found a Way to Make the Real-World Web Work]]></title>
+            <description><![CDATA[<article><h1>Google May Have Found a Way to Make the Real-World Web Work</h1><p>Remember beacons? Honestly, there's not much reason you would. Hailed for years by Apple, Google, and beyond as one of the next big things in tech-for marketers, at least-the glorious beacon future has yet to arrive in the present. They may get a little closer, however, now that Google has solved one of their major issues.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/60f00415e118224ecabc9f288eafe337a9d94455.jpg"></article>]]></description>
+            <link>http://www.wired.com/2016/04/google-beacon-security-eddystone/</link>
+            <guid isPermaLink="false">d56677c9-6ef2-4a02-8ea7-f4d359a00906</guid>
+            <pubDate>Sun, 29 May 2016 16:48:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Rechargeable Electric Wheels]]></title>
+            <description><![CDATA[<article><h1>Rechargeable Electric Wheels</h1><p>Glide through traffic without spewing any fumes, thanks to the plethora of e-wheels that are becoming available-though laws around the world are huffing and puffing to keep up. Below are new iterations of two-wheeled personal vehicles that are changing stereotypes.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a4bfadc3e557f16fa1850e62040c4bb83a42c702.jpg"></article>]]></description>
+            <link>http://www.coolhunting.com/tech/electric-bikes-scooters-motorcycles-2015</link>
+            <guid isPermaLink="false">ee1c7a25-5a75-42c4-9779-66daed259fba</guid>
+            <pubDate>Sun, 29 May 2016 16:48:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Coolest Tech at SXSW Interactive This Year]]></title>
+            <description><![CDATA[<article><h1>The Coolest Tech at SXSW Interactive This Year</h1><p>Everything from lifelike humanoids to VR-recording apps at SXSW Interactive 2016.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/914b8f2c193ba23977d43dd2927ac45c36498fd3.jpg"></article>]]></description>
+            <link>https://www.thrillist.com/tech/nation/the-coolest-tech-at-sxsw-interactive-2016/tech</link>
+            <guid isPermaLink="false">886de7e9-4945-4110-8aac-847aeb4a8b39</guid>
+            <pubDate>Sun, 29 May 2016 16:48:58 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
